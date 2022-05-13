@@ -1,6 +1,6 @@
 {
-  "name": "deep-email-validator",
-  "version": "0.1.21",
+  "name": "@dannylai/deep-email-validator",
+  "version": "0.1.22",
   "files": [
     "dist/**/*"
   ],
@@ -12,6 +12,12 @@
     "url": "https://github.com/mfbx9da4/deep-email-validator"
   },
   "author": "David Alberto Adler",
+  "contributors": [
+    {
+      "name": "Danny Lai",
+      "email" : "dannylai@livapp.com"
+    }
+  ],  
   "license": "MIT",
   "keywords": [
     "email-validation",
